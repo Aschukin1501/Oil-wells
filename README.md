@@ -1,2 +1,2 @@
-Работа выполнена в ноутуке на платформе Kaggle
+Работа выполнена в ноутбуке на платформе Kaggle
 https://www.kaggle.com/code/alekseyschukin/oil-wells
